@@ -1,0 +1,2 @@
+serviceClass: com.banana.stockwatcher.client.GreetingService
+path: 6B0B1EF07B5020AE6AF643D611B5FE13.gwt.rpc
